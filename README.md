@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pagidala Saketh Reddy
-- 👀 I’m interested in Developing web applications and Problem Solving
+- 👀 I’m interested in Developing web applications,Problem Solving and AI
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
