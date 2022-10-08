@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<saketh395>&theme=<THEME_NAME>" />
 
 <!---
 saketh395/saketh395 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
