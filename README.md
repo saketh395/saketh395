@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saketh395" alt="saketh395" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saketh 395" target="blank"><img src="https://img.shields.io/twitter/follow/saketh 395?logo=twitter&style=for-the-badge" alt="saketh 395" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@sakethreddy_" target="blank"><img src="https://img.shields.io/twitter/follow/saketh 395?logo=twitter&style=for-the-badge" alt="saketh 395" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development, Data Structures and Algorithms**
 
