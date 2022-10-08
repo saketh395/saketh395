@@ -1,3 +1,5 @@
+![Profile views counter](https://komarev.com/ghpvc/?username=saketh395&&style=flat-square)  
+
 ## Hey 👋, I'm Saketh!  
   
 
@@ -93,7 +95,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=saketh395&&style=flat-square)  
+
   
 
 <br/>  
