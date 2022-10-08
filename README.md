@@ -1,30 +1,25 @@
-- 👋 Hi, I’m Pagidala Saketh Reddy
-- 👀 I’m interested in web development,Problem Solving and AI & ML
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-
-
 <h1 align="center">Hi 👋, I'm Saketh</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saketh395&label=Profile%20views&color=0e75b6&style=flat" alt="saketh395" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saketh395" alt="saketh395" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/Saketh 395" target="blank"><img src="https://img.shields.io/twitter/follow/saketh 395?logo=twitter&style=for-the-badge" alt="saketh 395" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saketh395" target="blank"><img src="https://img.shields.io/twitter/follow/saketh395?logo=twitter&style=for-the-badge" alt="saketh395" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development, Data Structures and Algorithms**
 
 - 👨‍💻 All of my links are available at [https://linktr.ee/sakethreddyp](https://linktr.ee/sakethreddyp)
 
+- 💬 Ask me about **Web Development**
+
 - 📫 How to reach me **pagidalasakethreddy@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cd9FBf8KjOlLf2GBjCqENRYz1pGAzllT/view](https://drive.google.com/file/d/1cd9FBf8KjOlLf2GBjCqENRYz1pGAzllT/view)
 
+- ⚡ Fun fact **approachable**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saketh 395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saketh 395" height="30" width="40" /></a>
+<a href="https://twitter.com/saketh395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saketh395" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pagidalasakethreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pagidalasakethreddy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sakethp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sakethp" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pagidalasakethr1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pagidalasakethr1" height="30" width="40" /></a>
@@ -37,8 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saketh395&show_icons=true&locale=en&layout=compact" alt="saketh395" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saketh395&show_icons=true&locale=en" alt="saketh395" /></p>
-
-<!---
-saketh395/saketh395 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
