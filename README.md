@@ -78,11 +78,11 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="70%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=saketh395&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="30%">
 
 
 </td></tr></table>  
